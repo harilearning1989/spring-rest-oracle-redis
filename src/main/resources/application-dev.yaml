@@ -34,3 +34,11 @@ logging:
 #redis-server --version
 #brew services start redis
 #redis-cli
+#https://www.youtube.com/watch?v=XCsS_NVAa1g&t=286s
+#https://www.youtube.com/watch?v=Vx2zPMPvmug
+
+#Install Mongodb
+#brew untap mongodb/brew
+#brew install mongodb-community@8.0
+#brew services start mongodb-community@8.0
+#brew install --cask mongodb-compass

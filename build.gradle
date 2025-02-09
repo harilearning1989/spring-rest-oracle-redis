@@ -24,6 +24,8 @@ dependencies {
 	implementation 'org.springframework.boot:spring-boot-starter-data-redis'
 	implementation 'org.springframework.boot:spring-boot-starter-cache'  // For caching support
 	//implementation 'io.lettuce.core:lettuce-core' // Redis client (default)
+	// Spring Boot Starter Data MongoDB
+	implementation 'org.springframework.boot:spring-boot-starter-data-mongodb'
 
 	compileOnly 'org.projectlombok:lombok'
 	runtimeOnly 'com.oracle.database.jdbc:ojdbc11'
